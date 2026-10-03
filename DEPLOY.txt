@@ -1,0 +1,16 @@
+DEPLOY CHECKLIST
+
+Upload the complete folder contents.
+
+Required root files:
+index.html
+style.css
+script.js
+
+Required folders:
+images/media/
+images/reviews/
+
+Do not rename image files after upload unless you also update the matching references in index.html or script.js.
+
+No npm install, no framework build and no database are required.
